@@ -1,0 +1,102 @@
+[07-Jun-2016 01:49:34 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/105-php-final/init/index.php on line 216
+[07-Jun-2016 01:49:34 UTC] PHP Stack trace:
+[07-Jun-2016 01:49:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/init/index.php:0
+[07-Jun-2016 01:49:34 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/105-php-final/init/index.php:216
+[07-Jun-2016 01:49:34 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/105-php-final/init/index.php on line 237
+[07-Jun-2016 01:49:34 UTC] PHP Stack trace:
+[07-Jun-2016 01:49:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/init/index.php:0
+[07-Jun-2016 01:49:34 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/105-php-final/init/index.php:237
+[07-Jun-2016 01:49:34 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/105-php-final/init/index.php on line 258
+[07-Jun-2016 01:49:34 UTC] PHP Stack trace:
+[07-Jun-2016 01:49:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/init/index.php:0
+[07-Jun-2016 01:49:34 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/105-php-final/init/index.php:258
+[14-Jun-2016 03:52:37 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/ubuntu/workspace/105-php-final/admin/newProducts.php on line 19
+[14-Jun-2016 03:52:37 UTC] PHP Stack trace:
+[14-Jun-2016 03:52:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:0
+[14-Jun-2016 03:52:37 UTC] PHP   2. trim() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:19
+[14-Jun-2016 03:52:37 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/ubuntu/workspace/105-php-final/admin/newProducts.php on line 23
+[14-Jun-2016 03:52:37 UTC] PHP Stack trace:
+[14-Jun-2016 03:52:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:0
+[14-Jun-2016 03:52:37 UTC] PHP   2. trim() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:23
+[14-Jun-2016 03:52:37 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/ubuntu/workspace/105-php-final/admin/newProducts.php on line 27
+[14-Jun-2016 03:52:37 UTC] PHP Stack trace:
+[14-Jun-2016 03:52:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:0
+[14-Jun-2016 03:52:37 UTC] PHP   2. trim() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:27
+[14-Jun-2016 03:52:37 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/ubuntu/workspace/105-php-final/admin/newProducts.php on line 31
+[14-Jun-2016 03:52:37 UTC] PHP Stack trace:
+[14-Jun-2016 03:52:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:0
+[14-Jun-2016 03:52:37 UTC] PHP   2. trim() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:31
+[14-Jun-2016 03:52:37 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/ubuntu/workspace/105-php-final/admin/newProducts.php on line 36
+[14-Jun-2016 03:52:37 UTC] PHP Stack trace:
+[14-Jun-2016 03:52:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:0
+[14-Jun-2016 03:52:37 UTC] PHP   2. trim() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:36
+[14-Jun-2016 13:28:11 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 9 in /home/ubuntu/workspace/105-php-final/admin/newProducts.php on line 69
+[14-Jun-2016 13:28:11 UTC] PHP Stack trace:
+[14-Jun-2016 13:28:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:0
+[14-Jun-2016 13:28:11 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:69
+[14-Jun-2016 13:33:50 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 9 in /home/ubuntu/workspace/105-php-final/admin/newProducts.php on line 74
+[14-Jun-2016 13:33:51 UTC] PHP Stack trace:
+[14-Jun-2016 13:33:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:0
+[14-Jun-2016 13:33:51 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/newProducts.php:74
+[14-Jun-2016 14:56:46 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:46 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:46 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:46 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:46 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:46 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:46 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:46 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:46 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:46 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:46 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:46 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:46 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:46 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:46 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:46 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:46 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:46 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:59 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:59 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:59 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:59 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:59 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:59 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:59 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:59 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:59 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:59 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:59 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:59 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:59 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:59 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:59 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 14:56:59 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SO_User_id' in 'field list' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 106
+[14-Jun-2016 14:56:59 UTC] PHP Stack trace:
+[14-Jun-2016 14:56:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[14-Jun-2016 14:56:59 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:106
+[14-Jun-2016 16:08:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 140
+[15-Jun-2016 08:15:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 23
+[15-Jun-2016 15:10:35 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 's1103137203.SO_List_Quantity' doesn't exist in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 32
+[15-Jun-2016 15:10:35 UTC] PHP Stack trace:
+[15-Jun-2016 15:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[15-Jun-2016 15:10:35 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:32
+[15-Jun-2016 15:12:17 UTC] PHP Warning:  PDOStatement::fetch(): SQLSTATE[HY000]: General error in /home/ubuntu/workspace/105-php-final/admin/CHOrder.php on line 33
+[15-Jun-2016 15:12:17 UTC] PHP Stack trace:
+[15-Jun-2016 15:12:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:0
+[15-Jun-2016 15:12:17 UTC] PHP   2. PDOStatement->fetch() /home/ubuntu/workspace/105-php-final/admin/CHOrder.php:33
+[24-Jun-2016 00:12:33 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`c9`.`Customer`, CONSTRAINT `FKCustomer906963` FOREIGN KEY (`CustomerPayMethod_id`) REFERENCES `PaymentMethod` (`PaymentMethod_id`)) in /home/ubuntu/workspace/Sales/admin/newuser.php on line 71
+[24-Jun-2016 00:12:33 UTC] PHP Stack trace:
+[24-Jun-2016 00:12:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/admin/newuser.php:0
+[24-Jun-2016 00:12:33 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Sales/admin/newuser.php:71
